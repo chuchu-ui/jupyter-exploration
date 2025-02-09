@@ -40,18 +40,6 @@ I explored two methods for working with Jupyter Notebook.
 - I used [Google Colab](https://colab.research.google.com/) as a convenient way to run Jupyter notebooks without any installation.
 - Benefits: No installation required, easy to share notebooks, and access to powerful GPUs.
 
-### **Local Installation of Jupyter Notebook**
-To install and run Jupyter Notebook locally:
-
-1. Installed Python via [Python.org](https://www.python.org/).
-2. Installed Jupyter using pip:
-   ```bash
-   pip install notebook
-   ```
-3. Started the notebook server:
-   ```bash
-   jupyter notebook
-   ```
 
 ## 3. **Creating My First Notebook**
 In the Jupyter interface:
